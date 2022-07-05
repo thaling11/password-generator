@@ -63,5 +63,4 @@ if (confirm("Would you like numbers?")) {
   characterArr = characterArr.concat(numberArr);
 }
 return true;
-
 } 
